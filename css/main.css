@@ -1,0 +1,62 @@
+*{
+	font-family: 'Bree Serif', serif;
+}
+.fondo-1{
+	background-image: url(../img/home.jpg) !important;
+	background-position: center;
+	padding: 80px 0 150px 0;
+}
+.navbar-default{
+	margin-bottom: 0 !important;
+	width: 100%;
+	position: fixed;
+	z-index: 3;
+}
+.titulo{
+	color: white !important;
+}
+.ver-doc{
+	color: #8B8A8A;
+	margin-bottom:20px;
+}
+
+.parrafo-1{
+	font-family: 'Righteous', cursive;
+	margin-top: 20px;
+	color:#8DD0BC;
+}
+.parrafo-2{
+	font-family: 'Righteous', cursive;
+	font-size: 16px !important;
+	margin-top: 20px;
+	color:white;
+}
+.titulo-2{
+	color: white;
+	font-weight: bold;
+}
+.purple{
+	background: none !important;
+}
+.hackathon-1{
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+iframe{
+	margin-bottom: 40px;
+	max-width: 100% !important;
+}
+.love{
+	background: #8A0559;
+}
+.contacto{
+	padding: 30px;
+}
+footer{
+	background: #8A0559;
+}
+footer p{
+	color: white;
+	padding: 20px;
+}
+
